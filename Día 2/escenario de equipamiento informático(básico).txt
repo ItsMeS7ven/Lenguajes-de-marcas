@@ -1,0 +1,17 @@
+1. As máquinas que contén o documento.
+
+2. A información correspondente ao hardware das máquinas.
+
+3. A información de configuración das máquinas.
+
+4. A lista de fabricantes dos equipos.
+
+5. A lista de discos que conteñen.
+
+6. Os enderezos IP
+
+7. Os nomes das máquinas.
+
+8. Os nomes das máquinas que teñan gravadora óptica (DVD).
+
+9. O sistema operativo das máquinas nas que figure o "role".
